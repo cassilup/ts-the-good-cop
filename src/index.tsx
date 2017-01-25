@@ -29,13 +29,12 @@ console.log("hello world!");
 
 
 
-
 // import * as React from "react";
 // import * as ReactDOM from "react-dom";
 
 // ReactDOM.render(
 //   <div>
-//     test
+//     Hello from React!
 //   </div>,
 //   document.getElementById("root")
 // );
