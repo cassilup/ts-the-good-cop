@@ -38,7 +38,7 @@ Also check out the console for `http://localhost:4001`.
 ### 3. Bring in Types
 
 ```sh
-yarn add @types/react @types/react-dom
+yarn add --dev @types/react @types/react-dom
 ```
 
 Re-run `npm run dev`.
