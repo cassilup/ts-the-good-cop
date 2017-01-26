@@ -1,3 +1,5 @@
+<p align="center"><img src="https://pbs.twimg.com/media/C2_u7CdWgAIuGsj.jpg:small" alt="TypeScript: The Good Cop"></p>
+
 ## Playground for TypeScript: The Good Cop
 
 ### 1. Install dependencies
